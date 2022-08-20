@@ -1,0 +1,4 @@
+<?php
+
+agc.log {Blocked}
+?>
